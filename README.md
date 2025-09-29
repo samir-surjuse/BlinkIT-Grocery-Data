@@ -3,9 +3,7 @@
 This project analyzes BlinkIT’s grocery sales dataset to uncover business insights related to product performance, outlet trends, pricing, and customer purchasing behavior. The goal is to provide data-driven recommendations for improving sales and operational efficiency.
 
 📂 Dataset
-
 Source: BlinkIT Grocery Sales (Excel file)
-
 Features Include:
 
       Item type, visibility, MRP (price)
